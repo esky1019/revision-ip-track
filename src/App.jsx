@@ -27,7 +27,7 @@ const firebaseConfig = {
 const ADMIN_PASSWORD = "admin"; 
 
 // 🔴 網站暫停開關 (改為 true 即開啟維護模式)
-const SYSTEM_PAUSED = true; 
+const SYSTEM_PAUSED = false; 
 
 // ==========================================
 // 初始化 Firebase
